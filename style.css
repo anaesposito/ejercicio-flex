@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+
+body {
+  background-color: #fafafa;
+  font-family: montserrat;
+  font-weight: bold;
+}
+.contenedor {
+  text-align: center;
+}
+
+.principal {
+  display: flex;
+  justify-content: center;
+}
+
+.caja {
+  border: 1px solid rgb(196, 194, 194);
+  border-radius: 5%;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  margin: 10px;
+  background-color: white;
+}
+
+img {
+  box-sizing: border-box;
+}
